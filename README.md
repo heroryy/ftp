@@ -1,2 +1,1 @@
-# ftp
-a simple ftp
+linux 网络编程的内容
